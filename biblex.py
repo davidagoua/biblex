@@ -1,5 +1,6 @@
 #-*- coding:latin -*-
 
+#utilisation de pyqt5 au lieu de wx serait mieux
 from wx import *
 import json
 
